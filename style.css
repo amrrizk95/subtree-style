@@ -5,3 +5,11 @@ h1{
 p{
     background-color: aliceblue;
 }
+h2{
+    background-color: aliceblue;
+}
+
+h3{
+    background-color: aliceblue;
+    padding: 20px;
+}
